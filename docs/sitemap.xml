@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dartoledo.github.io/sre-techblog/categories/</loc>
+    <loc>https://dartoledo.github.io/sre-techblog/posts/first-post/</loc>
+    <lastmod>2020-10-03T00:51:50+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://dartoledo.github.io/sre-techblog/</loc>
+    <lastmod>2020-10-03T00:51:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dartoledo.github.io/sre-techblog/posts/</loc>
+    <lastmod>2020-10-03T00:51:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dartoledo.github.io/sre-techblog/categories/</loc>
   </url>
   
   <url>
